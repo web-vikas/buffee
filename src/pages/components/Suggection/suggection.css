@@ -1,0 +1,23 @@
+.result-container .image{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+}
+.result-container .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+    object-position: center center;
+}
+.result-container{
+    display: flex;
+    gap: 10px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

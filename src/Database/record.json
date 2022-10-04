@@ -1,0 +1,144 @@
+[
+    {
+        "id": "10",
+        "movieTitle": "The Woman King",
+        "downloadLinks": ["#"],
+        "category": "Marvel",
+        "screenShots": "",
+        "thumbnail": "1kyAIZERwbYYZRcs_cp0nyPCx4KhuJ4Fe",
+        "Genres": "Action | Adventure | Sci-Fi",
+        "Language": "Hindi | English",
+        "Quality": "WEB-DL",
+        "releasestatus":"comingsoon"
+    },
+    {
+        "id": "9",
+        "movieTitle": "Wakanda Forever",
+        "downloadLinks": ["#"],
+        "category": "Marvel",
+        "screenShots": "",
+        "thumbnail": "1ivciBVR1aw6eKKd71k6fqEdR_dwg-OGd",
+        "Genres": "Action | Adventure | Sci-Fi",
+        "Language": "Hindi | English",
+        "Quality": "WEB-DL",
+        "releasestatus":"comingsoon"
+    },
+    {
+        "id": "8",
+        "movieTitle": "Werewolf By Night",
+        "downloadLinks": ["#"],
+        "category": "Marvel",
+        "screenShots": "",
+        "thumbnail": "1Ojhz5JyfH2fY1H9J5wSZBgOPpptFchmm",
+        "Genres": "Action Horroe Sci-Fi",
+        "Language": "Hindi | English",
+        "Quality": "WEB-DL",
+        "releasestatus":"comingsoon"
+    },
+    {
+        "id": "7",
+        "movieTitle": "Iron Man 2008",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/1133967484/v3356A5149304B303344453241664C686E4339576F3233543232573534684A346F46303235336E71304E41383D/Iron.Man.2008.BluRay.480p.HIN-Multi.x264-HTCinemaxx.mkv",
+            "720p http://tb28.trainbit.com:8080/files/3313967484/v348415A303973706172646D6743725A7235395756574262674E587A7557306D785076764A366367694A4F343D/Iron.Man.2008.BluRay.720p.HIN-Multi.AAC5.1.x264-HTCinemaxx.mkv",
+            "1080phttps://new.gdtot.cfd/file/34665591459"
+        ],
+        "category": "Marvel",
+        "screenShots": "1ZfcrWRstGhlcGp8aeOIf1FOpTB__Jubi",
+        "thumbnail": "1kv2b-2l5yfcEFfrLAMUyG3FHBAmIezfF",
+        "Genres": "Action SuperHero Comedy  Sci-Fi",
+        "Language": "Hindi | English",
+        "Quality": "WEB-DL",
+        "releasestatus":"released"
+    },
+    {
+        "id": "6",
+        "movieTitle": "Thor Love And Thunder 2022",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/8733967484/v3356A5149304B30334445337739397555446C7553674E6D6743455A64767139532B427946306574457054453D/Thor_%E2%9D%A4_amp__(2022)_480p_Hin_Eng_ORG.mkv",
+            "720p http://tb28.trainbit.com:8080/files/6633967484/v3356A5149304B303344453239787666314C483053675853674B7576705A6B646561627268496734525544303D/Thor_%E2%9D%A4_amp__(2022)_720p_Hin_Eng_ORG.mkv"
+        ],
+        "category": "Marvel",
+        "screenShots": "1XR5gUNKXouShOfNVpOFviuP29TLSvXT4",
+        "thumbnail": "1kTTQoY6seM7jxbuiMcG07xZhf0LFdtT0",
+        "Genres": "Action Adventure Comedy  Sci-Fi",
+        "Language": "Hindi",
+        "Quality": "WEB-DL",
+        "releasestatus":"released"
+    },
+    {
+        "id": "5",
+        "movieTitle": "KGF Chaptar 2",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/9014967484/v34D7241714B494B76567370355459632B31596F784B6534416C772B373049742B55715569734A69784B43593D/K.G.F_2_(2022)_480p_Hindi_WeB-DL_ORG.mkv",
+            "720p http://tb28.trainbit.com:8080/files/0804967484/v36B783478496B6C486163376A784E3735524F4479646A4575785836354A656C704D6D33472F613237674F453D/K.G.F_2_(2022)_720p_Hindi_WeB-DL_ORG.mkv"
+        ],
+        "category": "SouthIndian",
+        "screenShots": "1clh-mIwArt1We4Jk97RSHgbNeuOaryq7",
+        "thumbnail": "1-N9k_HW5nK1XFNJ-p7BRufE02GrcZI5U",
+        "Genres": "Action Adventure Comedy  Sci-Fi",
+        "Language": "Hindi",
+        "Quality": "WEB-DL",
+        "releasestatus":"released"
+    },
+    {
+        "id": "4",
+        "movieTitle": "DC League of Super-Pets",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/5234967484/v3687356466939506857664C7030534943686E6E67416675735A5169484165646E4F683673784E58566859633D/DC_Super_Pets_(2022)_480p_Hin_Eng_ORG.mkv",
+            "720p http://tb28.trainbit.com:8080/files/8814967484/v34D7241714B494B76567372473069586859364C567065322F366B72574C5570466D546C636A6934564E6E4D3D/DC_Super_Pets_(2022)_720p_Hin_Eng_ORG.mkv"
+        ],
+        "category": "Animation",
+        "screenShots": "1Kvb0PUGb5cPxOJPH_s5W1wd47AHwtvYe",
+        "thumbnail": "1WKYL1e1FFSO2K6KXshpI4-ERjZZcD4U9",
+        "Genres": "Action Adventure Comedy  Sci-Fi",
+        "Language": "English | Hindi",
+        "Quality": "WEB-DL",
+        "releasestatus":"released"
+    },
+    {
+        "id": "3",
+        "movieTitle": "Radhe-Shyam",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/3094967484/v3594856536D6D547842714D41714B76647950576C6774487076546B56397649433057586A3761686F355A57653439746B4A6F716B50773D3D/Radhe_Shyam_(2022)_480p_Hindi_ORG.mkv",
+            "720p http://tb28.trainbit.com:8080/files/5534967484/v3687356466939506857664B7968694C4E544C64302F313764637A54474F4C2F327449726C42475A69355568586F487A6F6A462F5A58413D3D/Radhe_Shyam_(2022)_720p_Hindi_ORG.mkv"
+        ],
+        "category": "SouthIndian",
+        "screenShots": "1bARsaW4Gnwfu26Rxaw8Pu1IJe8cbQgpG",
+        "thumbnail": "1cAsA6KeCfO8sCthzXTskwNbpmCZ1Q2Bw",
+        "Genres": "Romance/Drama",
+        "Language": "Telugu | Hindi",
+        "Quality": "WEB-DL",
+        "releasestatus":"released"
+    },
+    {
+        "id": "2",
+        "movieTitle": "Sarkaru_Vaari_Paata_(2022)",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/2859967484/v3496A762F64466A4B4B63487441334959614B71493974574B677448307441524B76345231672F436A45306F3D/Sarkaru_Vaari_Paata_(2022)_480p_HQ_Hindi_Dubbed_Web-DL.mkv",
+            "720p http://tb28.trainbit.com:8080/files/9009967484/v36C344C5767567A6D765068563378515435625833654D476D3755622B6F375A35592F33794436334452716F3D/Sarkaru_Vaari_Paata_(2022)_720p_HQ_Hindi_Dubbed_Web-DL.mkv"
+        ],
+        "category": "SouthIndian",
+        "screenShots": "1YpGaXtAh23bBajRl0JoS-ks89k2VpuZ5",
+        "thumbnail": "1eikrqe2Ohnj7FmEshHBZtt1nbcn066XP",
+        "Genres": "Drama",
+        "Language": "Hindi (HQ PROPER Dub)",
+        "Quality": "720p & 480p [WEB-DL] HEVC",
+        "releasestatus":"released"
+    },
+    {
+        "id": "1",
+        "movieTitle": "Doctor Strange in the Multiverse of Madness",
+        "downloadLinks": [
+            "480p http://tb28.trainbit.com:8080/files/2299967484/v3684B4F447464464876594B30557069646F4B6C6B7A4E324237666441674441516C76596E5376335A366735542F336A63345876677A513D3D/Doctor_Strange_MOM_(2022)_480p_Hin(ORG)_Eng_WEB-DL.mkv",
+            "720p http://tb28.trainbit.com:8080/files/2739967484/v36A43785A30337939684E32686D6E4D766F6C594A4F7A6F4353466C4E4B6868336E737A79644552334E687A3734534A624C4B4A6770413D3D/Doctor_Strange_MOM_(2022)_720p_Hin(ORG)_Eng_WEB-DL.mkv"
+        ],
+        "category": "HollyWood",
+        "screenShots": "11zSMqAA0XD_O5jo-5GHET4K-76etl_Kg",
+        "thumbnail": "1jJL9OIUPxeIzKij2TRK5JT0sQ80WRqKS",
+        "Genres": "Action | Adventure",
+        "Language": "Hindi | English",
+        "Quality": "WEB-DL",
+        "releasestatus":"released"
+    }
+]

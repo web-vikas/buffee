@@ -1,0 +1,52 @@
+.desktop_seacrh {
+  padding: 9px 10px;
+  gap: 20px;
+}
+
+.desktop_seacrh input {
+  font-size: 1.2rem;
+  padding: 6px;
+  border: none;
+  outline: none;
+}
+
+.desktop_seacrh {
+  background-color: #06283D;
+}
+
+.desktop_seacrh button {
+  background-color: #3b3f43;
+  color: white;
+  padding: 5px 15px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: background 400ms ease-in-out;
+}
+
+.desktop_seacrh button:hover {
+  background: #083957;
+}
+
+.pc-search {
+  position: relative;
+}
+
+.suggsation {
+  display: none;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px;
+  background-color: #06283D;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 2;
+  color: white;
+  display: none;
+}
+
+#pc_search:focus~.suggsation,
+#pc_search:focus~.suggsation {
+  display: flex;
+}

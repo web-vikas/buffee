@@ -1,0 +1,25 @@
+.card-container{
+    background-color: #06283D;
+    border-radius: 7px;
+    overflow: hidden;
+    height: 250px;
+    width: 170px;
+    cursor: pointer;
+    position: relative;
+} 
+.card-container::before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #06283D;
+    opacity: 0;
+    transition: all 300ms ease-in-out;
+}  
+.card-container:hover::before{
+    opacity: .4;
+}
+.image{
+    width: 100%;
+    height: 100%;
+}

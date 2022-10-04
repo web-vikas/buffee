@@ -1,0 +1,20 @@
+.devider{
+    margin: 20px !important;
+}
+.devider h2{
+    line-height: 2;
+    color: white;
+    width: fit-content;
+    font-weight: 400;
+    cursor: pointer;
+    font-size: 1.3rem;
+    transition: color 300ms ease-in-out;
+}
+.devider h2:hover{
+    color: #06283D;
+}
+@media(max-width:786px){
+    .devider{
+        margin: 0;
+    }
+}

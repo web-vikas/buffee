@@ -1,0 +1,42 @@
+
+Navbar
+Moies
+Hollywood
+Bolly
+south
+sadar
+WebSeries
+TV Show
+chines
+korean
+turkish
+Cotegray
+Animated
+DUB
+ENg Sub
+Netflix
+Disny
+Amazon
+
+Movie Details Page : 
+Tags
+title
+date
+number of times page opend
+movie-desc
+screenshots
+moie-cotegray
+
+
+download links
+title
+year
+resolution
+ott name
+audio
+subtitle
+extenstion
+size
+dounload BTN
+
+Note  We DO Not One ANy File

@@ -1,0 +1,35 @@
+.desktop_seacrh {
+    padding: 9px 10px;
+    gap: 20px;
+
+    & input {
+        font-size: 1.2rem;
+        padding: 6px;
+        border: none;
+        outline: none;
+    }
+}
+
+.hide-for-mobile {
+    @include braekpoint-down(xlarge) {
+        display: none;
+    }
+}
+
+.hide-for-small-mobile {
+    @include braekpoint-down(medium) {
+        display: none;
+    }
+}
+
+.hide-for-desktop {
+    @include breakpoint-up(xlarge) {
+        display: none;
+    }
+}
+
+.show-for-small-screen {
+    @include breakpoint-up(small) {
+        display: none;
+    }
+}

@@ -1,0 +1,37 @@
+body {
+    background-color: $primaryColor;
+    font-family: 'Roboto', sans-serif !important;
+}
+li,ul{
+    list-style: none;
+}
+a,
+a:visited,
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+.jc-se {
+    justify-content: space-evenly;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.g-2 {
+    gap: 20px;
+}

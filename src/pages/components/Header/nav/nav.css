@@ -1,0 +1,59 @@
+.nav-link {
+    position: relative;
+    padding: 18px 15px;
+    text-align: center;
+    width: 150px;
+    color: white;
+    cursor: pointer;
+    background-color: #06283D;
+    transition: background 200ms ease-in-out;
+}
+
+.nav-link::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    height: 3px;
+    width: 0;
+    background-color: aqua;
+    left: 0;
+    transition: width 500ms ease-in-out;
+}
+
+.nav-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link:hover::before {
+    width: 100%;
+}
+
+.nav-link:hover {
+    background-color: #083957;
+}
+
+.icon {
+    width: 9px;
+    height: 9px;
+    background: white;
+    -webkit-clip-path: polygon(50% 20%, 100% 0, 50% 100%, 50% 100%, 0 0);
+    clip-path: polygon(50% 20%, 100% 0, 50% 100%, 50% 100%, 0 0);
+}
+
+.lavel-one {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    top: -100px;
+    opacity: 0;
+    z-index: 2;
+    transition: all 400ms ease-in-out;
+}
+
+.nav-link:hover .lavel-one {
+    top: 55px;
+    opacity: 1;
+}
