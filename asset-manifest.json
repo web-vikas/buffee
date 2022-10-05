@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/buffee/static/css/main.4fb1d7bf.css",
-    "main.js": "/buffee/static/js/main.9e136cc4.js",
+    "main.js": "/buffee/static/js/main.81e5758f.js",
     "static/media/avatar.jpg": "/buffee/static/media/avatar.6bb2295d6ebd18833c3c.jpg",
     "static/media/error-404.png": "/buffee/static/media/error-404.ee698513ae1063a9bf3e.png",
     "static/media/BuffeeLogo.png": "/buffee/static/media/BuffeeLogo.397d278e7745c9ff1384.png",
     "index.html": "/buffee/index.html",
     "main.4fb1d7bf.css.map": "/buffee/static/css/main.4fb1d7bf.css.map",
-    "main.9e136cc4.js.map": "/buffee/static/js/main.9e136cc4.js.map"
+    "main.81e5758f.js.map": "/buffee/static/js/main.81e5758f.js.map"
   },
   "entrypoints": [
     "static/css/main.4fb1d7bf.css",
-    "static/js/main.9e136cc4.js"
+    "static/js/main.81e5758f.js"
   ]
 }
