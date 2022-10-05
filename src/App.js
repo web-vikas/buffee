@@ -9,6 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
+        <Route exact path='/buffee' element={<Home />} />
         <Route exact path='/' element={<Home />} />
         <Route path='search/*' element={<Search />} />
         <Route path='download/*' element={<DownloadFile />} />
